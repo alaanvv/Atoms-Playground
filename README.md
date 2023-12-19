@@ -7,5 +7,5 @@
 
   #### And now, in beautiful n dangerous C code
 
-  <img src='https://github.com/alaanvv/Atoms-Playground/raw/main/assets/img/atoms.gif' width='400'>
+  <img src='https://github.com/alaanvv/Image-Database/blob/main/Misc/atoms.gif?raw=true' width='400'>
 </div>
